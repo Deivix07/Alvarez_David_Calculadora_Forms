@@ -1,0 +1,14 @@
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\Alvarez_David_Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\Alvarez_David_Matematicas.AssemblyInfoInputs.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\Alvarez_David_Matematicas.AssemblyInfo.cs
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\Alvarez_David_Matematicas.csproj.CoreCompileInputs.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\bin\Debug\net9.0-windows\Alvarez_David_Matematicas.exe
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\bin\Debug\net9.0-windows\Alvarez_David_Matematicas.deps.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\bin\Debug\net9.0-windows\Alvarez_David_Matematicas.runtimeconfig.json
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\bin\Debug\net9.0-windows\Alvarez_David_Matematicas.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\bin\Debug\net9.0-windows\Alvarez_David_Matematicas.pdb
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\Alvarez_David_Matematicas.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\refint\Alvarez_David_Matematicas.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\Alvarez_David_Matematicas.pdb
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\Alvarez_David_Matematicas.genruntimeconfig.cache
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\ref\Alvarez_David_Matematicas.dll
