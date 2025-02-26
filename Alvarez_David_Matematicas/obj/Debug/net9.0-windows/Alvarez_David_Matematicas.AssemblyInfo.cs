@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alvarez_David_Matematicas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b93bd0f782f48666f07bb909c6068014c2140569")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alvarez_David_Matematicas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alvarez_David_Matematicas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alv
 D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\Alvarez_David_Matematicas.pdb
 D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\Alvarez_David_Matematicas.genruntimeconfig.cache
 D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\ref\Alvarez_David_Matematicas.dll
+D:\David-ITECSUR\TERCER SEMESTRE\PROGRAMACION VISUAL Y ESTRUCTURADA\17-02-25\Alvarez_David_Matematicas\obj\Debug\net9.0-windows\Alvarez_David_Matematicas.sourcelink.json
